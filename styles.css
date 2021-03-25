@@ -143,6 +143,7 @@ a{
 
     .service-bloc{
         margin: 0 15px;
+        flex: 1;
     }
 }
 
